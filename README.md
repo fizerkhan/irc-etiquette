@@ -10,12 +10,13 @@ It's a bad manner if someone enters a channel and asks "May I ask a question?" o
 
 There is nothing worse than "My printer doesn't work." or "My mail server doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
 
-What did you try to accomplish? (I wanted to fetch my mails via POP3.)
-What has happened (wrongly) instead? (But my inbox remains empty.)
-What environment are you using? (I am using kmail 1.8 in KDE 3.4.)
-What did you try to find the cause? (I already checked my POP3 account setup.)
-Are there error message or log files? (The error message reads: "SSL negotiation failed.")
-Has it ever worked? What did you change? (I switched accounts to a new provider. It worked before with another provider.)
+- What did you try to accomplish? (I wanted to fetch my mails via POP3.)
+- What has happened (wrongly) instead? (But my inbox remains empty.)
+- What environment are you using? (I am using kmail 1.8 in KDE 3.4.)
+- What did you try to find the cause? (I already checked my POP3 account setup.)
+- Are there error message or log files? (The error message reads: "SSL negotiation failed.")
+- Has it ever worked? What did you change? (I switched accounts to a new provider. It worked before with another provider.)
+
 If all this information is included then you will have a high chance of getting a useful reply.
 
 ## Tell what you are doing
