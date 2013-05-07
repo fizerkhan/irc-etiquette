@@ -55,9 +55,12 @@ If people tell you to read the documentation then you should do so. Never say: "
 
 Even if you are in a hurry you should allow other participants some time to answer. Sometimes you are lucky and a helpful reply appears within a few seconds. But it is not uncommon that you will have to wait 10-20 minutes until the right person who is familiar with your problem talks to you. The pattern looks something like this:
 
- 10:07 Foo joins
- 10:07 Foo> How can I install the shripdibble module?
- 10:09 Foo quit
+```
+10:07 Foo joins
+10:07 Foo> How can I install the shripdibble module?
+10:09 Foo quit
+```
+
 Then at 10:14 an expert on shripdibble joins but can't help you any more because you gave up too quickly.
 
 ## Stay if you can
@@ -80,4 +83,10 @@ When getting responses be careful who you trust. Some people just want to feel i
 
 ## Do not flood the channel - use a pastebin
 
-Sometimes you need to show others more than one line. Perhaps parts of your configuration files or a log file. Never just copy and paste larger amounts of text right into the channel. Always use a pastebin. Pastebins are public services (web sites) where you can paste your text and everybody can access them as a URL. Just paste your contents there and send the URL into the channel. That should allow everybody who's interested to take a look. Just don't paste it without any comment. Rather say: "Emails seem to get lost since I installed program foobar. Please take a look at my logs: http://..." See the list of pastebin services on the internet.
+Sometimes you need to show others more than one line. Perhaps parts of your configuration files or a log file. Never just copy and paste larger amounts of text right into the channel. Always use a pastebin. Pastebins are public services (web sites) where you can paste your text and everybody can access them as a URL. Just paste your contents there and send the URL into the channel. That should allow everybody who's interested to take a look. Just don't paste it without any comment. Rather say: "Emails seem to get lost since I installed program foobar. Please take a look at my logs: http://..." See the [list of pastebin services](http://en.wikipedia.org/wiki/Pastebin) on the internet.
+
+Related links
+-------------
+
+- http://www.catb.org/~esr/faqs/smart-questions.html
+- http://www.koepf.de/irc.html (german)
