@@ -45,7 +45,7 @@ Asking the same question every minute is annoying. If anyone in the channel isn'
 
 ## Speak english
 
-In most channels the only language spoken is english. There are certain local channels like #debian-fr which are specifically for frenchmen. But everywhere else you must not write anything but english. It doesn't matter if your english is bad. Most people in the world speak something different than english, too. And if you find another person that speaks your language then do not start to talk in your local language. Nobody else can follow you and it's considered rude.
+In most channels the only language spoken is english. There are certain local channels like #debian-fr which are specifically for french speakers. But everywhere else you must not write anything but english. It doesn't matter if your english is bad. Most people in the world speak something different than english, too. And if you find another person that speaks your language then do not start to talk in your local language. Nobody else can follow you and it's considered rude.
 
 ## Don't be lazy - read the documentation
 
