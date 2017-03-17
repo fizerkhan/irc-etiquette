@@ -4,7 +4,7 @@ IRC (Internet Relay Chat) is a real-time chat where you can talk to other people
 
 ## Don't ask to ask
 
-It's a bad manner if someone enters a channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction it does not work that way on IRC. You are supposed to just ask your question right away.
+It's bad manners if someone enters a channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction it does not work that way on IRC. You are supposed to just ask your question right away. One reason for this is that different people in the channel have different areas of expertise, and people don't like replying to then find they can't actually help you. Even if people do reply, due to the fact that it can often take several minutes (or more) before anyone sees your question, asking to ask will mostly just make you wait a lot longer for a solution to your original problem.
 
 ## Be precise
 
@@ -45,7 +45,7 @@ Asking the same question every minute is annoying. If anyone in the channel isn'
 
 ## Speak english
 
-In most channels the only language spoken is english. There are certain local channels like #debian-fr which are specifically for frenchmen. But everywhere else you must not write anything but english. It doesn't matter if your english is bad. Most people in the world speak something different than english, too. And if you find another person that speaks your language then do not start to talk in your local language. Nobody else can follow you and it's considered rude.
+In most channels the only language spoken is english. There are certain local channels like #debian-fr which are specifically for french speakers. But everywhere else you must not write anything but english. It doesn't matter if your english is bad. Most people in the world speak something different than english, too. And if you find another person that speaks your language then do not start to talk in your local language. Nobody else can follow you and it's considered rude.
 
 ## Don't be lazy - read the documentation
 
